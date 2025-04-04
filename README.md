@@ -1,20 +1,20 @@
-<p align=right> <img src="https://komarev.com/ghpvc/?username=sandaru95&label=Profile%20views&color=0e75b6&style=flat" alt="sandaru95" /> </p>
+<p align=right> <img src="https://komarev.com/ghpvc/?username=SuneraSandagomi&label=Profile%20views&color=0e75b6&style=flat" alt="SuneraSandagomi" /> </p>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Sandaru+Rasanjana+Here!+👋;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Sunera+Rasanjana+Here!+👋;" />
 </h1>
 <h3 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> A software engineer from <img src="https://hatscripts.github.io/circle-flags/flags/lk.svg" width="16"> Sri Lanka</h3>
 
-[![Website](https://img.shields.io/website?label=sandaru95.github.io&style=for-the-badge&url=https%3A%2F%2Fsandaru95.github.io)](https://sandaru95.github.io)
+[![Website](https://img.shields.io/website?label=SuneraSandagomi.github.io&style=for-the-badge&url=https%3A%2F%2FSuneraSandagomi.github.io)](https://sunerasandagomi.github.io)
 ## I'm a Student, Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Joined ExternOS team at age of 15
-<p align=center> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandaru95" alt="sandaru95" /></a> </p>
+<p align=center> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SuneraSandagomi" alt="SuneraSandagomi" /></a> </p>
 <h3>Where to find me</h3>
 <p>
-  <a href="https://github.com/sandaru95" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://github.com/SuneraSandagomi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/9272339/sandaru-rasanjana" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a> 
   <a href="https://twitter.com/sandarurasanjan" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/sandaru-rasanjana/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -86,6 +86,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandaru95&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandaru95&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SuneraSandagomi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuneraSandagomi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
